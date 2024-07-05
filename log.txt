@@ -1,0 +1,19 @@
+https://dev.to/saitadikonda99/deploying-a-react-app-on-kubernetes-a-quick-guide-3e9
+
+
+-- simplify app to one screen and as least resources as possible
+ a) Deploy react app to Kubernetes cluster 
+https://dev.to/saitadikonda99/deploying-a-react-app-on-kubernetes-a-quick-guide-3e9
+
+b) Expose port
+
+c) Add CICD pipeleine
+- jenkins
+
+c) Add service SQL and API
+	- what type of base service should I use
+	- make connect calls through API crud
+
+d) Add auth service
+
+e) Customize Doman
