@@ -4,6 +4,7 @@ https://dev.to/saitadikonda99/deploying-a-react-app-on-kubernetes-a-quick-guide-
 -- simplify app to one screen and as least resources as possible
  a) Deploy react app to Kubernetes cluster 
 https://dev.to/saitadikonda99/deploying-a-react-app-on-kubernetes-a-quick-guide-3e9
+http://127.0.0.1:51105/
 
 b) Expose port
 

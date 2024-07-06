@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: lcn2020/my-react-app:latest
+          image: lcn2020/nota:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 80
+            - containerPort: 8080
