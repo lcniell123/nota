@@ -1,7 +1,5 @@
 # nota
 
-# Azure CRUD Application with React and Azure Functions
-
 ## Overview
 
 This project demonstrates a CRUD (Create, Read, Update, Delete) application built with React for the frontend and Azure Functions for the backend, using Azure Cosmos DB for data storage.
@@ -14,7 +12,7 @@ This project demonstrates a CRUD (Create, Read, Update, Delete) application buil
 - **Delete Item**: Remove items from the Cosmos DB.
 
 ## File Structure
-
+```
 my-azure-app/
 │
 ├── azure-functions/
@@ -57,7 +55,7 @@ my-azure-app/
 ├── .gitignore
 ├── README.md
 └── package.json
-
+```
 perl
 Copy code
 
